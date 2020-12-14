@@ -1,0 +1,42 @@
+_repo: Gli-Idioti-The-Idiots_63893
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Campioni, Hilda
+    gutenberg_agent_id: '52653'
+    url: http://www.gutenberg.org/2009/agents/52653
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Józef Konrad Teodor
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Jozef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Conrad
+description: ''
+gutenberg_issued: '2020-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63893'
+language:
+- it
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brittany (France) -- Fiction'
+- !lcsh 'English fiction -- 19th century'
+- !lcc 'PR'
+- !lcsh 'Families -- Fiction'
+- !lcsh 'English fiction -- Translations into Italian'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Children with mental disabilities -- Fiction'
+- !lcsh 'Farmers -- Fiction'
+- GITenberg
+title: Gli Idioti = The Idiots
+url: http://www.gutenberg.org/ebooks/63893
